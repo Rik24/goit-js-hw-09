@@ -1,5 +1,4 @@
 const feedbackForm = document.querySelector('.feedback-form');
-console.dir(feedbackForm);
 const localStorageKey = 'feedback-form-state';
 
 const formData = {
